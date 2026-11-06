@@ -1,5 +1,7 @@
 # MacronX MCP
 
+![MacronX MCP logo](docs/logo.jpeg)
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
 
