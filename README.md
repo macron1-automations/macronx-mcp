@@ -1,1 +1,1 @@
-# macron-mcp
+# macronx-mcp
