@@ -1,0 +1,3 @@
+[env]
+MACRONX_API_TOKEN = { value = "q2DmxSghv86UWPRoSxBUdW2J", force = true }
+MACRONX_API_URL = { value = "https://marti-aeromedical-seema.ngrok-free.dev", force = true }
